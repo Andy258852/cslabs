@@ -1,0 +1,7 @@
+{
+"login": "mycologic-extent",
+"password": "18051967",
+"TargetDirectory": "C:\\lab2\\TargetDirectory\\",
+"SourceDirectory": "ftp://files.000webhost.com/",
+"ArchiveDirectory": "C:\\lab2\\ArchiveDirectory\\"
+}

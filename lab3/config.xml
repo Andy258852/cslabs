@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+<login>"mycologic-extent"</login>
+<password>"18051967"</password>
+<TargetDirectory>"C:\lab2\TargetDirectory\"</TargetDirectory>
+<SourceDirectory>"ftp://files.000webhost.com/"</SourceDirectory>
+<ArchiveDirectory>"C:\lab2\ArchiveDirectory\"</ArchiveDirectory>
+</configuration>
